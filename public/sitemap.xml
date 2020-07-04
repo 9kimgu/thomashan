@@ -1,1 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://thomashan.xyz/projects/creations/</loc><lastmod>2020-01-07T15:00:28+00:00</lastmod><priority>0.5</priority></url><url><loc>https://thomashan.xyz/</loc><lastmod>2020-01-07T15:00:28+00:00</lastmod><priority>0</priority></url><url><loc>https://thomashan.xyz/projects/</loc><lastmod>2020-01-07T15:00:28+00:00</lastmod><priority>0.9</priority></url><url><loc>https://thomashan.xyz/projects/creations/airbnb/</loc></url><url><loc>https://thomashan.xyz/projects/creations/iowa/</loc></url><url><loc>https://thomashan.xyz/tags/java/</loc></url><url><loc>https://thomashan.xyz/tags/jmp-pro/</loc></url><url><loc>https://thomashan.xyz/tags/lmao/</loc></url><url><loc>https://thomashan.xyz/tags/postgresql/</loc></url><url><loc>https://thomashan.xyz/tags/python/</loc></url><url><loc>https://thomashan.xyz/projects/creations/recruitment/</loc></url><url><loc>https://thomashan.xyz/tags/</loc></url><url><loc>https://thomashan.xyz/tags/whatever-the-fuck/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://thomashan.xyz/projects/creations/</loc>
+    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://thomashan.xyz/</loc>
+    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thomashan.xyz/projects/</loc>
+    <lastmod>2020-01-07T15:00:28+00:00</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://thomashan.xyz/projects/creations/airbnb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thomashan.xyz/projects/creations/iowa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thomashan.xyz/tags/java/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thomashan.xyz/tags/jmp-pro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thomashan.xyz/tags/lmao/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thomashan.xyz/tags/postgresql/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thomashan.xyz/tags/python/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thomashan.xyz/projects/creations/recruitment/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thomashan.xyz/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thomashan.xyz/tags/whatever-the-fuck/</loc>
+  </url>
+  
+</urlset>

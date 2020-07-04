@@ -1,5 +1,5 @@
 title = "Thomas Han"
-baseURL = "https://www.thomashan.netlify.app/"
+baseURL = "https://thomashan.netlify.app/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -22,11 +22,6 @@ showProjects = true
 showPublications = false
 showQr = false
 showSkills = true
-
-[params.google]
-
-[params.google.analytics]
-trackerID = ""
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/thomas-han1209"

@@ -1,5 +1,5 @@
 title = "Thomas Han"
-baseURL = "https://thomashan.xyz/"
+baseURL = "https://www.thomashan.xyz/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true

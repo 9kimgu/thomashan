@@ -1,0 +1,20 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Java","Python","git","C++","Linux","bash","cmd","R"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+	"MySQL",
+        {"name":"PostgreSQL","icon":"database"},
+        "Jupyter Notebook",
+	"Numpy",
+	"Matplotlib",
+	"Seaborn",
+	"Tableau",
+	"JMP Pro",
+	"SAP"
+      ]
+  }
+]

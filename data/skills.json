@@ -9,9 +9,11 @@
 	"MySQL",
         {"name":"PostgreSQL","icon":"database"},
         "Jupyter Notebook",
+	"Pandas",
 	"Numpy",
 	"Matplotlib",
 	"Seaborn",
+	"Microsoft Office Suite",
 	"Tableau",
 	"JMP Pro",
 	"SAP"

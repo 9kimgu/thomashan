@@ -1,6 +1,7 @@
 [
     {
         "role":"Intern",
+	"image":"/static/img/hyundai.png",
         "company":"Hyundai Merchant Marine",
         "summary":"Organized and optimized vessel utilization form international partners through company's traffic system.",
         "range":"May 2018 - August 2018"

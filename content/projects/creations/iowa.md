@@ -3,7 +3,7 @@
   "image": "/img/circleci-workflow.webp",
   "image": "https://www.mcgill.ca/oss/files/oss/styles/hd/public/alcohol.png?itok=VkPLqYOp&timestamp=1559847546",
   "description": "Analyzed Iowa liquor sales to gain insights, patterns, and trends used to leverage marketing campaign sales. Specifically used SQL to create aggregate functions to get specific data. All of this data was then summarized into a presentation that was able to be digested properly.",
-  "tags": ["PostgreSQL","Whatever the fuck", "lmao"],
+  "tags": ["PostgreSQL","Data Wrangling"],
   "fact": "",
   "featured":true
 }

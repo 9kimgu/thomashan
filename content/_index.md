@@ -1,1 +1,1 @@
-Hi this is Thomas and Welcome to my portfolio website.
+Hello, my name is Thomas Han and welcome to my portfolio website.

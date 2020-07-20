@@ -1,5 +1,3 @@
-Hello, welcome to my website! I want to inform you a little more about myself. 
+Hello, welcome to my website!
 
-My name is Thomas Han and I am a recent graduate from University of Texas at Dallas. I graduated on December 2019 with bachelor's degree in Business Administration and a concentration with Business Analytics. 
-
-Feel free to look around my website and please contact me through the Contact page if you have any questions.
+Recent college graduate with Business Administration major with Business Analyst concentration. Have a deep understanding in data mining, data cleaning, and business needs analysis. Proven ability to understand customer requirements and translate into actionable project plans. Dedicated and hard-working with passion for Big Data as well as solving complex problems in high-pressure environments 

@@ -9,6 +9,7 @@
     {
 	"school":"[General Assembly](https://generalassemb.ly)",
 	"degree":"Data Analytics Bootcamp",
-	"range":"2020"
+	"range":"2020",
+	"notes":"Relevant Courses: Introduction to Databases, Wrangling Data in Excel, Fundamentals of Tableau"
     }
 ]
